@@ -7,4 +7,7 @@ description "\n"
 moreee dectription
 
 
+## what to do
+open intelij
+
 
